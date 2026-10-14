@@ -2,5 +2,30 @@
 {
   "schemaVersion": 1,
   "lastUpdated": "2026-10-14",
-  "mods": []
+  "mods": [
+
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-10-14",
+  "mods": [
+    {
+      "id": "pes-2021-mobile-offline",
+      "title": "PES 2021 Mobile Offline",
+      "game": "PES 2021 Mobile",
+      "version": "1.0",
+      "description": "Offline gameplay with My League and Exhibition Mode.",
+      "thumbnailUrl": "https://example.com/cover.jpg",
+      "screenshots": [],
+      "videoUrl": "",
+      "downloads": [
+        {
+          "type": "APK",
+          "url": "https://example.com/download",
+          "label": "Download APK"
+        }
+      ]
+    }
+  ]
+}
+]
 }
